@@ -1,2 +1,8 @@
-# Finite Automata - WIP
-Current plans are to scrap c++ side of it and make it a full regex parser and interpreter in python
+# Regex Builder - WIP
+This will be a regex builder and parser with a web front end. 
+
+### TODO
+[ ] Create DFA class
+[ ] Create GNFA class
+[ ] Create Regular expression parser class (REGEX -> GNFA -> DFA -> yes/no)
+[ ] Create & implement front end w/ flask
