@@ -1,5 +1,4 @@
 # Regex Builder - WIP
-This will be a regex builder and parser with a web front end. 
 
 ### TODO
 - [x] Create DFA class
