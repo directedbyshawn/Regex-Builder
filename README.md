@@ -1,4 +1,4 @@
-# Regex Builder - WIP
+# Regex Engine - WIP
 
 ### TODO
 - [x] Create DFA class
